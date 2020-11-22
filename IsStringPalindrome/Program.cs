@@ -4,6 +4,9 @@ namespace IsStringPalindrome
 {
     class Program
     {
+
+        const int LIMITCHARS = 128; //128 o 256 ASCCI
+
         static void Main(string[] args)
         {
             Console.WriteLine("Write a sentence to check wheter palindrome or not");
@@ -16,16 +19,11 @@ namespace IsStringPalindrome
         {
             bool isPalindrome = true;
             char[] chars = word.Replace(" ", "").ToCharArray();
-            int[] NumberOfAppears = new int[char.ToUpper('z') - char.ToUpper('a') + 1];
+            int[] NumberOfAppears = new int[LIMITCHARS];
 
             for (int i = 0; i < chars.Length; i++)
             {
-                int numberOfChar = char.ToUpper(chars[i]) - 64;
-                if ((char.ToUpper('a') - 64) <= numberOfChar && numberOfChar <= (char.ToUpper('z') - 64))
-                {
-                    NumberOfAppears[numberOfChar]++;
-                }
-
+                NumberOfAppears[(int)chars[i]]++;
             }
 
             bool odd = false;
