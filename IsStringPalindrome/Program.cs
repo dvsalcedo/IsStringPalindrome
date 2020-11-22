@@ -17,8 +17,7 @@ namespace IsStringPalindrome
 
         public static bool IsPalindrome(string word)
         {
-            bool isPalindrome = true;
-            char[] chars = word.Replace(" ", "").ToCharArray();
+            char[] chars = word.ToLower().Replace(" ", "").ToCharArray();
             int[] NumberOfAppears = new int[LIMITCHARS];
 
             for (int i = 0; i < chars.Length; i++)
@@ -33,14 +32,13 @@ namespace IsStringPalindrome
                 {
                     if (odd) //Two or more odds
                     {
-                        isPalindrome = false;
-                        break;
+                        return false;
                     }
                     odd = true;
                 }
             }
 
-            return isPalindrome;
+            return true;
         }
     }
 }
