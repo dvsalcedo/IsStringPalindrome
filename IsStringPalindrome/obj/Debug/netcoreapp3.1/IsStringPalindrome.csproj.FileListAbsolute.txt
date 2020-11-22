@@ -1,0 +1,13 @@
+C:\Users\david.salcedo\Documents\Estudios\Net Project\Basis\IsStringPalindrome\IsStringPalindrome\IsStringPalindrome\bin\Debug\netcoreapp3.1\IsStringPalindrome.exe
+C:\Users\david.salcedo\Documents\Estudios\Net Project\Basis\IsStringPalindrome\IsStringPalindrome\IsStringPalindrome\bin\Debug\netcoreapp3.1\IsStringPalindrome.deps.json
+C:\Users\david.salcedo\Documents\Estudios\Net Project\Basis\IsStringPalindrome\IsStringPalindrome\IsStringPalindrome\bin\Debug\netcoreapp3.1\IsStringPalindrome.runtimeconfig.json
+C:\Users\david.salcedo\Documents\Estudios\Net Project\Basis\IsStringPalindrome\IsStringPalindrome\IsStringPalindrome\bin\Debug\netcoreapp3.1\IsStringPalindrome.runtimeconfig.dev.json
+C:\Users\david.salcedo\Documents\Estudios\Net Project\Basis\IsStringPalindrome\IsStringPalindrome\IsStringPalindrome\bin\Debug\netcoreapp3.1\IsStringPalindrome.dll
+C:\Users\david.salcedo\Documents\Estudios\Net Project\Basis\IsStringPalindrome\IsStringPalindrome\IsStringPalindrome\bin\Debug\netcoreapp3.1\IsStringPalindrome.pdb
+C:\Users\david.salcedo\Documents\Estudios\Net Project\Basis\IsStringPalindrome\IsStringPalindrome\IsStringPalindrome\obj\Debug\netcoreapp3.1\IsStringPalindrome.csprojAssemblyReference.cache
+C:\Users\david.salcedo\Documents\Estudios\Net Project\Basis\IsStringPalindrome\IsStringPalindrome\IsStringPalindrome\obj\Debug\netcoreapp3.1\IsStringPalindrome.AssemblyInfoInputs.cache
+C:\Users\david.salcedo\Documents\Estudios\Net Project\Basis\IsStringPalindrome\IsStringPalindrome\IsStringPalindrome\obj\Debug\netcoreapp3.1\IsStringPalindrome.AssemblyInfo.cs
+C:\Users\david.salcedo\Documents\Estudios\Net Project\Basis\IsStringPalindrome\IsStringPalindrome\IsStringPalindrome\obj\Debug\netcoreapp3.1\IsStringPalindrome.csproj.CoreCompileInputs.cache
+C:\Users\david.salcedo\Documents\Estudios\Net Project\Basis\IsStringPalindrome\IsStringPalindrome\IsStringPalindrome\obj\Debug\netcoreapp3.1\IsStringPalindrome.dll
+C:\Users\david.salcedo\Documents\Estudios\Net Project\Basis\IsStringPalindrome\IsStringPalindrome\IsStringPalindrome\obj\Debug\netcoreapp3.1\IsStringPalindrome.pdb
+C:\Users\david.salcedo\Documents\Estudios\Net Project\Basis\IsStringPalindrome\IsStringPalindrome\IsStringPalindrome\obj\Debug\netcoreapp3.1\IsStringPalindrome.genruntimeconfig.cache
