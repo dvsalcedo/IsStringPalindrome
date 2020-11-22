@@ -11,3 +11,16 @@ C:\Users\david.salcedo\Documents\Estudios\Net Project\Basis\IsStringPalindrome\I
 C:\Users\david.salcedo\Documents\Estudios\Net Project\Basis\IsStringPalindrome\IsStringPalindrome\IsStringPalindrome\obj\Debug\netcoreapp3.1\IsStringPalindrome.dll
 C:\Users\david.salcedo\Documents\Estudios\Net Project\Basis\IsStringPalindrome\IsStringPalindrome\IsStringPalindrome\obj\Debug\netcoreapp3.1\IsStringPalindrome.pdb
 C:\Users\david.salcedo\Documents\Estudios\Net Project\Basis\IsStringPalindrome\IsStringPalindrome\IsStringPalindrome\obj\Debug\netcoreapp3.1\IsStringPalindrome.genruntimeconfig.cache
+E:\Proyectos\Algoritmos Propios\IsStringPalindrome\IsStringPalindrome\bin\Debug\netcoreapp3.1\IsStringPalindrome.exe
+E:\Proyectos\Algoritmos Propios\IsStringPalindrome\IsStringPalindrome\bin\Debug\netcoreapp3.1\IsStringPalindrome.deps.json
+E:\Proyectos\Algoritmos Propios\IsStringPalindrome\IsStringPalindrome\bin\Debug\netcoreapp3.1\IsStringPalindrome.runtimeconfig.json
+E:\Proyectos\Algoritmos Propios\IsStringPalindrome\IsStringPalindrome\bin\Debug\netcoreapp3.1\IsStringPalindrome.runtimeconfig.dev.json
+E:\Proyectos\Algoritmos Propios\IsStringPalindrome\IsStringPalindrome\bin\Debug\netcoreapp3.1\IsStringPalindrome.dll
+E:\Proyectos\Algoritmos Propios\IsStringPalindrome\IsStringPalindrome\bin\Debug\netcoreapp3.1\IsStringPalindrome.pdb
+E:\Proyectos\Algoritmos Propios\IsStringPalindrome\IsStringPalindrome\obj\Debug\netcoreapp3.1\IsStringPalindrome.csprojAssemblyReference.cache
+E:\Proyectos\Algoritmos Propios\IsStringPalindrome\IsStringPalindrome\obj\Debug\netcoreapp3.1\IsStringPalindrome.AssemblyInfoInputs.cache
+E:\Proyectos\Algoritmos Propios\IsStringPalindrome\IsStringPalindrome\obj\Debug\netcoreapp3.1\IsStringPalindrome.AssemblyInfo.cs
+E:\Proyectos\Algoritmos Propios\IsStringPalindrome\IsStringPalindrome\obj\Debug\netcoreapp3.1\IsStringPalindrome.csproj.CoreCompileInputs.cache
+E:\Proyectos\Algoritmos Propios\IsStringPalindrome\IsStringPalindrome\obj\Debug\netcoreapp3.1\IsStringPalindrome.dll
+E:\Proyectos\Algoritmos Propios\IsStringPalindrome\IsStringPalindrome\obj\Debug\netcoreapp3.1\IsStringPalindrome.pdb
+E:\Proyectos\Algoritmos Propios\IsStringPalindrome\IsStringPalindrome\obj\Debug\netcoreapp3.1\IsStringPalindrome.genruntimeconfig.cache

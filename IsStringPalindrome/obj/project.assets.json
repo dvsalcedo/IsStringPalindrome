@@ -8,19 +8,19 @@
     ".NETCoreApp,Version=v3.1": []
   },
   "packageFolders": {
-    "C:\\Users\\david.salcedo\\.nuget\\packages\\": {}
+    "C:\\Users\\ds\\.nuget\\packages\\": {}
   },
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\david.salcedo\\Documents\\Estudios\\Net Project\\Basis\\IsStringPalindrome\\IsStringPalindrome\\IsStringPalindrome\\IsStringPalindrome.csproj",
+      "projectUniqueName": "E:\\Proyectos\\Algoritmos Propios\\IsStringPalindrome\\IsStringPalindrome\\IsStringPalindrome.csproj",
       "projectName": "IsStringPalindrome",
-      "projectPath": "C:\\Users\\david.salcedo\\Documents\\Estudios\\Net Project\\Basis\\IsStringPalindrome\\IsStringPalindrome\\IsStringPalindrome\\IsStringPalindrome.csproj",
-      "packagesPath": "C:\\Users\\david.salcedo\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\david.salcedo\\Documents\\Estudios\\Net Project\\Basis\\IsStringPalindrome\\IsStringPalindrome\\IsStringPalindrome\\obj\\",
+      "projectPath": "E:\\Proyectos\\Algoritmos Propios\\IsStringPalindrome\\IsStringPalindrome\\IsStringPalindrome.csproj",
+      "packagesPath": "C:\\Users\\ds\\.nuget\\packages\\",
+      "outputPath": "E:\\Proyectos\\Algoritmos Propios\\IsStringPalindrome\\IsStringPalindrome\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
-        "C:\\Users\\david.salcedo\\AppData\\Roaming\\NuGet\\NuGet.Config",
+        "C:\\Users\\ds\\AppData\\Roaming\\NuGet\\NuGet.Config",
         "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
       ],
       "originalTargetFrameworks": [
@@ -32,6 +32,7 @@
       },
       "frameworks": {
         "netcoreapp3.1": {
+          "targetAlias": "netcoreapp3.1",
           "projectReferences": {}
         }
       },
@@ -43,6 +44,7 @@
     },
     "frameworks": {
       "netcoreapp3.1": {
+        "targetAlias": "netcoreapp3.1",
         "imports": [
           "net461",
           "net462",
@@ -58,7 +60,7 @@
             "privateAssets": "all"
           }
         },
-        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\3.1.300\\RuntimeIdentifierGraph.json"
+        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.100\\RuntimeIdentifierGraph.json"
       }
     }
   }
