@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "E:\\Proyectos\\Algoritmos Propios\\IsStringPalindrome\\IsStringPalindrome\\IsStringPalindrome.csproj": {}
+    "C:\\Users\\ds\\source\\repos\\IsStringPalindrome\\IsStringPalindrome\\IsStringPalindrome.csproj": {}
   },
   "projects": {
-    "E:\\Proyectos\\Algoritmos Propios\\IsStringPalindrome\\IsStringPalindrome\\IsStringPalindrome.csproj": {
+    "C:\\Users\\ds\\source\\repos\\IsStringPalindrome\\IsStringPalindrome\\IsStringPalindrome.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "E:\\Proyectos\\Algoritmos Propios\\IsStringPalindrome\\IsStringPalindrome\\IsStringPalindrome.csproj",
+        "projectUniqueName": "C:\\Users\\ds\\source\\repos\\IsStringPalindrome\\IsStringPalindrome\\IsStringPalindrome.csproj",
         "projectName": "IsStringPalindrome",
-        "projectPath": "E:\\Proyectos\\Algoritmos Propios\\IsStringPalindrome\\IsStringPalindrome\\IsStringPalindrome.csproj",
+        "projectPath": "C:\\Users\\ds\\source\\repos\\IsStringPalindrome\\IsStringPalindrome\\IsStringPalindrome.csproj",
         "packagesPath": "C:\\Users\\ds\\.nuget\\packages\\",
-        "outputPath": "E:\\Proyectos\\Algoritmos Propios\\IsStringPalindrome\\IsStringPalindrome\\obj\\",
+        "outputPath": "C:\\Users\\ds\\source\\repos\\IsStringPalindrome\\IsStringPalindrome\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\ds\\AppData\\Roaming\\NuGet\\NuGet.Config",
@@ -54,7 +54,7 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.100\\RuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.101\\RuntimeIdentifierGraph.json"
         }
       }
     }

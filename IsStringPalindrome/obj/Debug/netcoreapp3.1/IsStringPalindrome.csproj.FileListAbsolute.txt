@@ -24,3 +24,16 @@ E:\Proyectos\Algoritmos Propios\IsStringPalindrome\IsStringPalindrome\obj\Debug\
 E:\Proyectos\Algoritmos Propios\IsStringPalindrome\IsStringPalindrome\obj\Debug\netcoreapp3.1\IsStringPalindrome.dll
 E:\Proyectos\Algoritmos Propios\IsStringPalindrome\IsStringPalindrome\obj\Debug\netcoreapp3.1\IsStringPalindrome.pdb
 E:\Proyectos\Algoritmos Propios\IsStringPalindrome\IsStringPalindrome\obj\Debug\netcoreapp3.1\IsStringPalindrome.genruntimeconfig.cache
+C:\Users\ds\source\repos\IsStringPalindrome\IsStringPalindrome\bin\Debug\netcoreapp3.1\IsStringPalindrome.exe
+C:\Users\ds\source\repos\IsStringPalindrome\IsStringPalindrome\bin\Debug\netcoreapp3.1\IsStringPalindrome.deps.json
+C:\Users\ds\source\repos\IsStringPalindrome\IsStringPalindrome\bin\Debug\netcoreapp3.1\IsStringPalindrome.runtimeconfig.json
+C:\Users\ds\source\repos\IsStringPalindrome\IsStringPalindrome\bin\Debug\netcoreapp3.1\IsStringPalindrome.runtimeconfig.dev.json
+C:\Users\ds\source\repos\IsStringPalindrome\IsStringPalindrome\bin\Debug\netcoreapp3.1\IsStringPalindrome.dll
+C:\Users\ds\source\repos\IsStringPalindrome\IsStringPalindrome\bin\Debug\netcoreapp3.1\IsStringPalindrome.pdb
+C:\Users\ds\source\repos\IsStringPalindrome\IsStringPalindrome\obj\Debug\netcoreapp3.1\IsStringPalindrome.csprojAssemblyReference.cache
+C:\Users\ds\source\repos\IsStringPalindrome\IsStringPalindrome\obj\Debug\netcoreapp3.1\IsStringPalindrome.AssemblyInfoInputs.cache
+C:\Users\ds\source\repos\IsStringPalindrome\IsStringPalindrome\obj\Debug\netcoreapp3.1\IsStringPalindrome.AssemblyInfo.cs
+C:\Users\ds\source\repos\IsStringPalindrome\IsStringPalindrome\obj\Debug\netcoreapp3.1\IsStringPalindrome.csproj.CoreCompileInputs.cache
+C:\Users\ds\source\repos\IsStringPalindrome\IsStringPalindrome\obj\Debug\netcoreapp3.1\IsStringPalindrome.dll
+C:\Users\ds\source\repos\IsStringPalindrome\IsStringPalindrome\obj\Debug\netcoreapp3.1\IsStringPalindrome.pdb
+C:\Users\ds\source\repos\IsStringPalindrome\IsStringPalindrome\obj\Debug\netcoreapp3.1\IsStringPalindrome.genruntimeconfig.cache
